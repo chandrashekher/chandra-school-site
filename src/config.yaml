@@ -1,5 +1,5 @@
 site:
-  name: AstroWind
+  name: Child-Youth-Education
   site: 'https://astrowind.vercel.app'
   base: '/'
   trailingSlash: false
