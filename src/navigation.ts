@@ -53,30 +53,31 @@ export const headerData = {
 export const footerData = {
   links: [
     {
-      title: 'Product',
+      title: 'Education',
       links: [
-        { text: 'Features', href: '#' },
+        { text: 'Regular school', href: '#' },
+        { text: 'After School', href: '#' },
       
       ],
     },
     {
-      title: 'Platform',
+      title: 'Elderly Care',
       links: [
-        { text: 'Developer API', href: '#' },
+        { text: 'Support Elederly People', href: '#' },
         
       ],
     },
     {
-      title: 'Support',
+      title: 'Medical Support',
       links: [
-        { text: 'Docs', href: '#' },
+        { text: 'Provide Medical Support', href: '#' },
       
       ],
     },
     {
-      title: 'Company',
+      title: 'Building Future',
       links: [
-        { text: 'About', href: '#' },
+        { text: 'Establish Technical School', href: '#' },
        
       ],
     },
